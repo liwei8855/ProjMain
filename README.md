@@ -1,2 +1,1 @@
-# ProjMain
-组件化-主工程
+pod "ProjMain"
