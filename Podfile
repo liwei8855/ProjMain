@@ -11,5 +11,7 @@ use_frameworks!
 #pod 'OPNewsNetworkingModule',   '~> 0.0.x'
 #pod 'OPCategories',   			:path => '../OPCategories'
 
+pod 'ProjUI',                 :path => '../ProjUI'
+
 
 end
