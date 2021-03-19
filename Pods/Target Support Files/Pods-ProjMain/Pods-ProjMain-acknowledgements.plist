@@ -19,6 +19,17 @@
 			<key>License</key>
 			<string>MIT</string>
 			<key>Title</key>
+			<string>ProjConfiguration</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>FooterText</key>
+			<string>MIT
+</string>
+			<key>License</key>
+			<string>MIT</string>
+			<key>Title</key>
 			<string>ProjUI</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>

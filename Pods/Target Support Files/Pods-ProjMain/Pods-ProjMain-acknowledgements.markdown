@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## ProjConfiguration
+
+MIT
+
+
 ## ProjUI
 
 MIT

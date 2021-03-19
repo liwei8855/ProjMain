@@ -12,6 +12,6 @@ use_frameworks!
 #pod 'OPCategories',   			:path => '../OPCategories'
 
 pod 'ProjUI',                 :path => '../ProjUI'
-
+pod 'ProjConfiguration',                 :path => '../ProjConfiguration'
 
 end

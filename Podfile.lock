@@ -1,16 +1,21 @@
 PODS:
+  - ProjConfiguration (0.1.0)
   - ProjUI (0.1.0)
 
 DEPENDENCIES:
+  - ProjConfiguration (from `../ProjConfiguration`)
   - ProjUI (from `../ProjUI`)
 
 EXTERNAL SOURCES:
+  ProjConfiguration:
+    :path: "../ProjConfiguration"
   ProjUI:
     :path: "../ProjUI"
 
 SPEC CHECKSUMS:
+  ProjConfiguration: 975f3ebaa5a51e1e1cb0b28a34a1e79633c46549
   ProjUI: 8032474993aa84ffa36654a6c3c4e5950a3feaff
 
-PODFILE CHECKSUM: cc6bad6e0babe178d32f2c380672682238e1624b
+PODFILE CHECKSUM: aa4cf3e158e26dfc0a5703fb5a2da2dd68e3335d
 
 COCOAPODS: 1.10.0
